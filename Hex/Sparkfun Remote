@@ -1,0 +1,15 @@
+Sparkfun electronics makes a simple IR remote that has nine buttons. It can be purchased at Sparkfun.com
+
+The remote sends 32bit HEX codes and requires a 38khz IR receiver. 
+
+Button       Code
+
+Power        10EFD827
+A            10EFF807
+B            10EF7887
+C            10EF58A7
+Up           10EFA05F
+Down         10EF807F
+Left         10EF10EF
+Right        10EF807F
+Circle       10EF20DF
