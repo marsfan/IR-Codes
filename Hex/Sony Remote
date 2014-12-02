@@ -1,0 +1,24 @@
+Sony Codes work for Sony televisions. These codes have been 
+tested on a OneFor All universal remote with the codes 1006, 0000, 1100, 0810
+These codes are HEX codes, they require a 38Khz IR receiver
+
+Button		Hex
+Power		A90
+1		10
+2		810
+3		410
+4		C10
+5		210
+6		A10
+7		610
+8		E10
+9		110
+0		910
+Enter		D10
+Menu		70
+Channel Up	90
+Channel Down	890
+Volume Up	490
+Volume Down	C90
+Mute		290
+Sleep		6D0
